@@ -1,4 +1,4 @@
-![Header Image]([https://downloads.ctfassets.net/mviowpldu823/5xAwOISiMuAcUmAsMdYjNG/ac0186e3e5221ebec664d4b5595796ce/2.Where_to_Give.jpg?w=1800&h=1800&f=center&q=80&fit=fill](https://images.ctfassets.net/mviowpldu823/ddac2e3249f91404d97ccc57a42e468a/09bf619b68c6041d99d66541b3d33e94/Aerial-281_0003-Enhanced.jpg))
+![Header Image](https://downloads.ctfassets.net/mviowpldu823/5xAwOISiMuAcUmAsMdYjNG/ac0186e3e5221ebec664d4b5595796ce/2.Where_to_Give.jpg?w=1800&h=1800&f=center&q=80&fit=fill)
 
 # Hi there, I'm Nelson Bermeo! 👋
 
