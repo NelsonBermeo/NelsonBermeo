@@ -1,16 +1,20 @@
-![Header Image](https://via.placeholder.com/1200x300.png?text=Header+Image)
+![Header Image]([https://via.placeholder.com/1200x300.png?text=Header+Image](https://www.stevens.edu/_next/image?url=https%3A%2F%2Fdownloads.ctfassets.net%2Fmviowpldu823%2F5xAwOISiMuAcUmAsMdYjNG%2Fac0186e3e5221ebec664d4b5595796ce%2F2.Where_to_Give.jpg%3Fw%3D1800%26h%3D1800%26f%3Dcenter%26q%3D80%26fit%3Dfill&w=2400&q=80))
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Nelson Bermeo! 👋
 
-Welcome to my GitHub profile! I'm a [Your Job Title/Role] passionate about [Your Interests/Fields]. I love working on projects that involve [Brief Description of Projects/Technologies You Love].
+Welcome to my GitHub profile! I'm a Student at Stevens Institiute of Technology in the NYC Metropolitan Area studying Computer Science passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics.
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning [Current Learning Goals]
-- 👯 I’m looking to collaborate on [Projects or Ideas]
-- 💬 Ask me about [Topics You’re Knowledgeable About]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [Interesting Fact About You]
+I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact, whether by curing patients, reducing environmental damage, or addressing other significant challenges. The applications of machine learning are limitless, and I am eager to explore and innovate within this exciting field.
+
+- 🌱 I’m currently learning about Machine Learning.
+- 👯 I’m looking for 2025 spring co-op and summer internship/research opportunities.
+- 💬 Ask me about navigating Computer Science as an incoming freshman I love sharing about my experience to help others. Come to my office hours too at [tbd] and ask me about literally anything I would love to help you. 
+- 📫 How to reach me: nelsonberm.2005@gmail.com
+- ⚡ Fun fact: I love my family, lifting light weight, and studying.
+- 💻 Shout out Stevens Computer Science Club @ Stevens I joined as a freshman and learned great things and met amazing people. Gateway South ??? Wednesdays at 9:15.
+- ⭐ "Be the person who embraces the ugly, the miserable. Be the person who embraces the hard work and the grind. Don't be afraid of being hurt, and don't be afraid of sacrificing some blood." - David Goggins
 
 ## 🛠️ Tech Stack
 
@@ -27,14 +31,6 @@ Here are some of the technologies and tools I work with:
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-## 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
