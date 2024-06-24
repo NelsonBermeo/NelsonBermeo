@@ -10,7 +10,7 @@ I am dedicated to acquiring new skills both inside and outside the classroom. My
 
 - 🌱 I’m currently learning about Machine Learning.
 - 👯 I’m looking for 2025 spring co-op and summer internship/research opportunities.
-- 💬 Ask me about navigating Computer Science as an incoming freshman I love sharing about my experience to help others. Come to my office hours too at [tbd] and ask me about literally anything I would love to help you. 
+- 💬 Ask me about navigating Computer Science, I love sharing about my experience to help others. Come to my office hours too at [tbd] and ask me about literally anything I would love to help you. 
 - 📫 How to reach me: nelsonberm.2005@gmail.com
 - ⚡ Fun fact: I love my family, lifting light weight, and studying.
 - 💻 Shout out Stevens Computer Science Club @ Stevens I joined as a freshman and learned great things and met amazing people. Gateway South ??? Wednesdays at 9:15.
