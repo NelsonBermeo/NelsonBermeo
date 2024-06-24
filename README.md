@@ -2,7 +2,7 @@
 
 # Hi there, I'm Nelson Bermeo! 👋
 
-Welcome to my GitHub profile! I'm a Student at Stevens Institiute of Technology in the NYC Metropolitan Area studying Computer Science passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics.
+Welcome to my GitHub profile! I'm a Student at Stevens Institiute of Technology in the NYC Metropolitan Area studying Computer Science. I am passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics.
 
 ## 🚀 About Me
 
