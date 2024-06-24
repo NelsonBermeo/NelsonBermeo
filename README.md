@@ -35,9 +35,10 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Connect with Me
 
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/nelson-bermeo-9118b11ba/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nelson-bermeo-9118b11ba/)
 
-[![Portfolio](nelsonbermeo.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://nelsonbermeo.com)
 
-![Footer Image]([https://via.placeholder.com/1200x100.png?text=Footer+Image](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/machine-learning-cabecera.jpg.transform/rp-rendition-md/image.jpg))
+![Footer Image](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/machine-learning-cabecera.jpg.transform/rp-rendition-md/image.jpg)
+
 
