@@ -1,26 +1,26 @@
 ![Header Image](https://www.stevens.edu/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fmviowpldu823%2F6PIQaMyacd17eDN3M91T9P%2Fa8b5ae5daff3e444d8be58b320c20682%2F332_0001.jpg%3Fw%3D2400%26h%3D1350%26f%3Dcenter%26q%3D80%26fit%3Dfill&w=2400&q=80)
 
-# Hi there, I'm Nelson Bermeo! 👋
+# Greetings, I Am Nelson Bermeo! 👋
 
-Welcome to my GitHub profile! I'm a Student at Stevens Institiute of Technology in the NYC Metropolitan Area studying Computer Science. I am passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics.
+I'm a Sophmore at Stevens Institiute of Technology in the NYC area studying Computer Science. I am passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics. 
 
 ## 🚀 About Me
 
-I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact, whether by curing patients, reducing environmental damage, or addressing other significant challenges. The applications of machine learning are limitless, and I am eager to explore and innovate within this exciting field.
+I have little to no experience in those passions of mine. I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am now developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. 
 
-- 🌱 I’m currently learning about Machine Learning.
-- 👯 I’m looking for 2025 spring co-op and summer internship/research opportunities.
-- 💬 Ask me about navigating Computer Science, I love sharing about my experience to help others. Come to my office hours too at 7-9 Wednesdays outside GS122 and ask me about literally anything I would love to help you. 
-- 📫 How to reach me: nelsonberm.2005@gmail.com
-- ⚡ Fun fact: I love my family, lifting light weight, and studying.
-- 💻 Shout out Stevens Computer Science Club @ Stevens I joined as a freshman and learned great things and met amazing people. Gateway South ??? Wednesdays at 9:15.
+- 🌱 I’m currently on my winter break reading Practical Linear Algebra for Data Science by Mike X Cohen. 
+- 👯 I’m looking for 2025 summer internship/research opportunities.
+- 💬 If you are a younger student please reach out if you have any questions about anything. 
+- 📫 How to reach me: nelsonberm.2005@gmail.com / nbermeo@stevens.edu
+- ⚡ Fun fact: I love my family, lifting weights, and studying.
+- 💻 Shout out Stevens Computer Science Club @ Stevens I joined as a freshman and learned great things and met amazing people. Gateway South 122 Wednesdays at 9:15.
 - 📝 Take a look at my blog where I write about my projects, journey, experiences and more: https://dev.to/nelson_bermeo
-- ⭐ "Be the person who embraces the ugly, the miserable. Be the person who embraces the hard work and the grind. Don't be afraid of being hurt, and don't be afraid of sacrificing some blood." - David Goggins
+- ⭐ "If you keep on attacking something... nothing wants to stand in front of something that is relentless." - David Goggins
 
 
 ## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
+My experience is small. It consists of programming assignments - from classes solving problmes like say pascal's triangle or implementing a red black tree in languages python, Java, C, C++, and ARM64 Assembly - and very small solo ventures - like courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials. One piece of advice I'd offer is to explore topics and build at least one project you can be proud of you built without a tutorial. I'll build something fun and grand someday but for now I'll read these data science books this winter and take awesome courses in the spring (web dev, software development, bus analysis) and that summer make something awesome; myself or maybe at a company - or both. 
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
