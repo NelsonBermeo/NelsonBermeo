@@ -1,5 +1,3 @@
-![Header Image](https://www.stevens.edu/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fmviowpldu823%2F6PIQaMyacd17eDN3M91T9P%2Fa8b5ae5daff3e444d8be58b320c20682%2F332_0001.jpg%3Fw%3D2400%26h%3D1350%26f%3Dcenter%26q%3D80%26fit%3Dfill&w=2400&q=80)
-
 # Greetings, I Am Nelson Bermeo! 👋
 
 I'm a Sophmore at Stevens Institiute of Technology in the NYC area studying Computer Science. I am passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics. 
