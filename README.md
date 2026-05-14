@@ -4,7 +4,7 @@ I'm a Rising Senior at Stevens Institiute of Technology in the NYC area studying
 
 ## 🚀 About Me
 
-I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. 
+I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. Portfolio: https://nelsonbermeo.github.io/Portfolio/
 
 - 🌱 I’m currently on my summer break learning skills, looking for research/job opportunities, and working as RA for Pre-College. 
 - 👯 I’m looking for 2026 summer internship/research opportunities.
@@ -33,7 +33,7 @@ My experience is small. It consists of programming projects outlined in my githu
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nelson-bermeo-9118b11ba/)
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://nelsonbermeo.com)
+[![Portfolio]([https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://nelsonbermeo.com](https://nelsonbermeo.github.io/Portfolio/))
 
 ![Footer Image](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/machine-learning-cabecera.jpg.transform/rp-rendition-md/image.jpg)
 
