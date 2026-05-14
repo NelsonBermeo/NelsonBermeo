@@ -1,13 +1,13 @@
 # Greetings, I Am Nelson Bermeo! 👋
 
-I'm a Sophmore at Stevens Institiute of Technology in the NYC area studying Computer Science. I am passionate about Machine Learning, Quantum Computing, Software Engineering, Deep Learning, and Mathematics. 
+I'm a Rising Senior at Stevens Institiute of Technology in the NYC area studying Computer Science. I am interested in ML/DL, SWE, C++ Optimization, and Databases. 
 
 ## 🚀 About Me
 
-I have little to no experience in those passions of mine. I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am now developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. 
+I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. 
 
-- 🌱 I’m currently on my winter break reading Practical Linear Algebra for Data Science by Mike X Cohen. 
-- 👯 I’m looking for 2025 summer internship/research opportunities.
+- 🌱 I’m currently on my summer break learning skills, looking for research/job opportunities, and working as RA for Pre-College. 
+- 👯 I’m looking for 2026 summer internship/research opportunities.
 - 💬 If you are a younger student please reach out if you have any questions about anything. 
 - 📫 How to reach me: nelsonberm.2005@gmail.com / nbermeo@stevens.edu
 - ⚡ Fun fact: I love my family, lifting weights, and studying.
@@ -18,18 +18,16 @@ I have little to no experience in those passions of mine. I have studied the bas
 
 ## 🛠️ Tech Stack
 
-My experience is small. It consists of programming assignments - from classes solving problmes like say pascal's triangle or implementing a red black tree in languages python, Java, C, C++, and ARM64 Assembly - and very small solo ventures - like courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials. One piece of advice I'd offer is to explore topics and build at least one project you can be proud of you built without a tutorial. I'll build something fun and grand someday but for now I'll read these data science books this winter and take awesome courses in the spring (web dev, software development, bus analysis) and that summer make something awesome; myself or maybe at a company/institution- or both. 
+My experience is small. It consists of programming projects outlined in my github repos (CNN, NLP, Web App, TCP), programming assignments and small ventures (courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials). This summer I plan to learn in depth about topics I am interested in and hopefully join a research/internship project.  
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
-![Qiskit](https://img.shields.io/badge/-Qiskit-333333?style=flat&logo=ibm)
 
 ## 📫 Connect with Me
 
