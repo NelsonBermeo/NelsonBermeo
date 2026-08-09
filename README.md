@@ -1,13 +1,13 @@
 # Greetings, I Am Nelson Bermeo! 👋
 
-I'm a Rising Senior at Stevens Institiute of Technology in the NYC area studying Computer Science. I am interested in ML/DL, SWE, C++ Optimization, and Databases. 
+I'm a Rising Senior at Stevens Institiute of Technology in the NYC area studying Computer Science. I am interested in ML/DL, SWE, Low Level Optimization, and Databases. 
 
 ## 🚀 About Me
 
 I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. Portfolio: https://nelsonbermeo.github.io/Portfolio/
 
-- 🌱 I’m currently on my summer break learning skills, looking for research/job opportunities, and working as RA for Pre-College. 
-- 👯 I’m looking for 2026 summer internship/research opportunities.
+- 🌱 I’m currently in my Fall senior year semester taking amazing classes. 
+- 👯 I’m looking for 2027 summer internship/research opportunities.
 - 💬 If you are a younger student please reach out if you have any questions about anything. 
 - 📫 How to reach me: nelsonberm.2005@gmail.com / nbermeo@stevens.edu
 - ⚡ Fun fact: I love my family, lifting weights, and studying.
@@ -18,7 +18,7 @@ I have studied the basics of computer science (algorithms, discrete math, calcul
 
 ## 🛠️ Tech Stack
 
-My experience is small. It consists of programming projects outlined in my github repos (CNN, NLP, Web App, TCP), programming assignments and small ventures (courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials). This summer I plan to learn in depth about topics I am interested in and hopefully join a research/internship project.  
+My experience is small. It consists of programming projects outlined in my github repos (CNN, NLP, Web App, TCP), programming assignments and small ventures (courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials). This Fall I plan to learn lots! 
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
