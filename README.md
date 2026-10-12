@@ -1,10 +1,6 @@
 # Greetings, I Am Nelson Bermeo! 👋
 
-I'm a Rising Senior at Stevens Institiute of Technology in the NYC area studying Computer Science. I am interested in ML/DL, SWE, Low Level Optimization, and Databases. 
-
-## 🚀 About Me
-
-I have studied the basics of computer science (algorithms, discrete math, calculus, etc) and I am developing my skills and knowledge in the subfields I mentioned above. I am dedicated to acquiring new skills both inside and outside the classroom. My goal is to one day contribute to computational projects that make a meaningful impact. Portfolio: https://nelsonbermeo.github.io/Portfolio/
+Welcome to my GitHub profile! I'm a Senior at Stevens Institiute of Technology in the NYC area pursing a B.S. in Computer Science at Stevens Institiute of Technology expected to graduate in May 2027 and will complete my M.S. in Computer Science here by May 2028. I am interested in ML/DL, SWE, Memory Optimization, and Databases. My goal is to one day contribute to computational projects that make a meaningful impact. Portfolio: https://nelsonbermeo.github.io/Portfolio/
 
 - 🌱 I’m currently in my Fall senior year semester taking amazing classes. 
 - 👯 I’m looking for 2027 summer internship/research opportunities.
@@ -15,26 +11,8 @@ I have studied the basics of computer science (algorithms, discrete math, calcul
 - 📝 Take a look at my blog where I write about my projects, journey, experiences and more: https://dev.to/nelson_bermeo
 - ⭐ "If you keep on attacking something... nothing wants to stand in front of something that is relentless." - David Goggins
 
-
-## 🛠️ Tech Stack
-
-My experience is small. It consists of programming projects outlined in my github repos (CNN, NLP, Web App, TCP), programming assignments and small ventures (courses from kaggle using Sci-kit Learn and Keras Tensorflow or python for very simple Django sites or typescript + react in guided tutorials). This Fall I plan to learn lots! 
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=python)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nelson-bermeo-9118b11ba/)
 
 [![Portfolio]([https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://nelsonbermeo.com](https://nelsonbermeo.github.io/Portfolio/))
-
-![Footer Image](https://www.repsol.com/content/dam/repsol-corporate/es/energia-e-innovacion/machine-learning-cabecera.jpg.transform/rp-rendition-md/image.jpg)
-
-
