@@ -1,6 +1,6 @@
 # Greetings, I Am Nelson Bermeo! 👋
 
-Welcome to my GitHub profile! I'm a Senior at Stevens Institiute of Technology in the NYC area pursing a B.S. in Computer Science at Stevens Institiute of Technology expected to graduate in May 2027 and will complete my M.S. in Computer Science here by May 2028. I am interested in ML/DL, SWE, Memory Optimization, and Databases. My goal is to one day contribute to computational projects that make a meaningful impact. Portfolio: https://nelsonbermeo.github.io/Portfolio/
+Welcome to my GitHub profile! I'm a Senior at Stevens Institiute of Technology in the NYC area pursing a B.S. in Computer Science at Stevens Institiute of Technology expected to graduate in May 2027 and will complete my M.S. in Computer Science here by May 2028. I am interested in ML/DL, SWE, Memory Optimization, and Databases. My goal is to one day contribute to computational projects that make a meaningful impact. 
 
 - 🌱 I’m currently in my Fall senior year semester taking amazing classes. 
 - 👯 I’m looking for 2027 summer internship/research opportunities.
@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm a Senior at Stevens Institiute of Technology i
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/nelson-bermeo-9118b11ba/)
+LinkedIn: https://www.linkedin.com/in/nelsonbermeo/
 
-[![Portfolio]([https://img.shields.io/badge/-Portfolio-333333?style=flat&logo=google-chrome&logoColor=white)](https://nelsonbermeo.com](https://nelsonbermeo.github.io/Portfolio/))
+Portfolio: https://nelsonbermeo.github.io/Portfolio/
