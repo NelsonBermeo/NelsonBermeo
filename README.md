@@ -6,15 +6,11 @@ Outside of the classroom I have been involved in leadership roles and organizati
 
 My goals are to keep learning more everyday and one day contribute to computational projects that make a meaningful impact. Thank you for reading.
 
-- 🌱 I’m currently in my Fall senior year semester taking amazing classes. 
-- 👯 I’m looking for 2027 summer internship/research opportunities.
-- 💬 If you are a younger student please reach out if you have any questions about anything. 
-- ⚡ Fun fact: I love my family, lifting weights, and studying.
-- 📝 Take a look at my blog where I write about my projects, journey, experiences and more: https://dev.to/nelson_bermeo
-- ⭐ "If you keep on attacking something... nothing wants to stand in front of something that is relentless." - David Goggins
-
+- I’m currently in my Fall senior year semester taking amazing classes. 
+- I’m looking for a 2027 summer internship/research opportunity.
+- If you are a younger student please reach out if you have any questions about navigating this complicated scene of tech! 
+- Fun facts: I love my family, lifting weights, playing piano and studying; I am a 2nd generation college student.
+  
 LinkedIn: https://www.linkedin.com/in/nelsonbermeo/
-
 Portfolio: https://nelsonbermeo.github.io/Portfolio/
-
 How to reach me: nelsonberm.2005@gmail.com / nbermeo@stevens.edu
