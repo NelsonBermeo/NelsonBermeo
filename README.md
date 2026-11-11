@@ -12,5 +12,7 @@ My goals are to keep learning more everyday and one day contribute to computatio
 - Fun facts: I love my family, lifting weights, playing piano and studying; I am a 2nd generation college student.
   
 LinkedIn: https://www.linkedin.com/in/nelsonbermeo/
+
 Portfolio: https://nelsonbermeo.github.io/Portfolio/
+
 How to reach me: nelsonberm.2005@gmail.com / nbermeo@stevens.edu
